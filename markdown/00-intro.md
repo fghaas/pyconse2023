@@ -5,7 +5,7 @@ Scrum is terrible, and you should ditch it
 
 Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 
-PyCon Sweden 2023 | 2023-11-09
+PyCon Sweden 2023 | 2023-11-10
 
 
 `_____`'s roles, artifacts, events, and rules are _immutable_ and
