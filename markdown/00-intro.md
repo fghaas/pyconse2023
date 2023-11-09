@@ -8,12 +8,12 @@ Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 PyCon Sweden 2023 | 2023-11-10
 
 <!-- Note --> 
-Ladies and gentlemen, girls and blokes and non-binary folks, I bring you the original subgenre of the lightning talk:
+Ladies and gentlemen, girls and blokes and non-binary folks:
 **This is a rant.**
 
-Do not expect to be able to reason with me, do not expect me to be reasonable.
+You should not expect to reason with me, nor expect me to be reasonable.
 
-Here is a question for you:
+Having said that, here is a question for you:
 
 
 `_____`'s roles, artifacts, events, and rules are _immutable_ and
