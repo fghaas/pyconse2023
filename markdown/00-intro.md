@@ -119,28 +119,13 @@ Even in the unlikely event that everyone can get together in one room for precis
 
 And remember, 15 minutes. Time-boxed, immutable. If you think your Daily Scrum can be 30 or 45 minutes, or you can do it just every other day or maybe thrice a week, recall: if you do that, you’re no longer doing Scrum.
 
-
-No planning beyond the current sprint.
-
-<!-- Note -->
-Scrum is quite emphatic that the only thing developers should be really concerned about in terms of planning is the next 24 hours (the plan for which is ostensibly being laid out in the Daily Scrum), and beyond that, the current sprint at a maximum.
-Now, the idea of freeing people’s minds and allowing them to focus on a single task at hand is certainly laudable.
-But the practical implications of having no medium to long-term planning are insane.
-
-
-No planning beyond the current sprint.
-
-_This only works if you have zero customers._
-
-<!-- Note -->
-I’d venture a guess that an approach where no planning is for more than a month out is viable, under one condition: having exactly zero users and/or customers for the product you are developing.
-I leave it to you to decide how valuable it is, then, to develop the product in the first place.
+And there are a bunch of other traits of Scrum that make zero sense but I am short on time so these three will have to do.
 
 
 Reasonable for emergencies.
 
 <!-- Note -->
-Arguably, some of the methods proposed in Scrum are quite suitable for emergency situations.
+Arguably, some of the methods proposed in Scrum are suitable for emergency situations.
 In a situation where you need to come up with a solution that requires creativity, hustle, and speed, you may well sit down, put down a requirements list, elect a coordinator and spokesperson for your team, and just start hacking.
 
 I’d agree that such situations can be extremely challenging, and quite satisfying to come out of with flying colors.
@@ -159,56 +144,6 @@ It doesn’t matter which role you’re in: as a developer, you’re headed for 
 As a manager, you’re herding your team into burnout.
 
 Either way, you shouldn’t be doing this job, either in your own interest or in that of others.
-
-
-Waterfall is bad. Scrum is novel.
-
-<!-- Note -->
-Scrum proponents frequently argue in its favor as the antithesis of the obsolete waterfall model, where all deliverables are defined from the outset and there is no room for deviation, leading to products that are either broken, or outdated, or both the moment they are completed.
-
-
-Waterfall is bad. Scrum is novel.
-
-_Not since 1975, really._
-
-<!-- Note -->
-If you think we only found out recently that waterfall is bad, you’ve been asleep at the switch for over 30 years. 
-In his seminal Mythical Man-Month essay collection from 1975, Fred Brooks pointed out some weaknesses of this model, and in his 1986 follow-up No Silver Bullet, he proposes organic, incremental software development as an alternative.
-
-
-If Scrum doesn't work with your team, your problem is your team.
-
-<!-- Note -->
-Scrum advocates frequently argue that if Scrum doesn’t work with your team, chances are that your team is the problem.
-This means that you should either replace them, or at least educate them in the ways and means of Scrum, so they can become a better-performing team.
-
-
-If Scrum doesn't work with your team, your problem is your team.
-
-Nope. _Your problem is Scrum._
-
-<!-- Note -->
-At this point, it should be fairly obvious that if Scrum doesn’t work for your team, the problem is not your team.
-The problem is Scrum.
-
-
-If Scrum miserably fails to deliver in your organization, it's
-because you're doing it wrong.
-
-<!-- Note -->
-And finally, Scrum proponents usually argue that if Scrum fails to deliver adequate results in your organization, it’s likely because you aren’t applying its central tenets correctly.
-In other words, you must come to your senses, and implement Scrum as designed, and which point results with magically appear, and your team will be in a constant state of flow.
-
-
-If Scrum miserably fails to deliver in your organization, it's
-because you're doing it wrong.
-
-Nope. _This only happens if you're doing it right._
-
-<!-- Note -->
-This is nonsense. 
-**If** you were able to actually do Scrum (meaning in its pure, immutable, One True Way), it would surely lead to disaster.
-But, it’s impossible to do so anyway. So:
 
 
 _Don't be a scrumbag._
