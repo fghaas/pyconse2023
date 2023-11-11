@@ -7,7 +7,16 @@ Florian Haas | [@xahteiwi@mastodon.social](https://mastodon.social/@xahteiwi)
 
 PyCon Sweden 2023 | 2023-11-10
 
-<!-- Note --> 
+<!-- Note -->
+Slide deck sources:  
+<https://github.com/fghaas/pyconse2023>
+
+Made with [Cookiecutter](https://cookiecutter.readthedocs.io/) from gh:fghaas/cookiecutter-presentation.
+
+License: [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+
+* * *
+
 Ladies and gentlemen, girls and blokes and non-binary folks:
 **This is a rant.**
 
