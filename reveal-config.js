@@ -2,12 +2,12 @@
 // https://github.com/hakimel/reveal.js#configuration
 Reveal.initialize({
 
-    controls: false,
+    controls: true,
 
     progress: true,
     history: true,
     center: true,
-    showNotes: false,
+    showNotes: true,
 
     transition: 'fade',
 
@@ -21,7 +21,7 @@ Reveal.initialize({
         themesPath: 'reveal.js/dist/theme',
 
         transitions: false,
-        openButton: false,
+        openButton: true,
         openSlideNumber: true,
         markers: true
     },
