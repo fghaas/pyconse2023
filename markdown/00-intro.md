@@ -17,6 +17,10 @@ License: [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by
 
 * * *
 
+On [my website](https://xahteiwi.eu/), you can find [an article corresponding to this talk](https://xahteiwi.eu/blog/2016/07/05/fragile-development/).
+
+* * *
+
 Ladies and gentlemen, girls and blokes and non-binary folks:
 **This is a rant.**
 
